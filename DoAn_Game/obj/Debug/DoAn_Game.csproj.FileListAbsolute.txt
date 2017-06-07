@@ -1,0 +1,9 @@
+c:\users\laptop\documents\visual studio 2013\Projects\DoAn_Game\DoAn_Game\bin\Debug\DoAn_Game.exe.config
+C:\Users\Laptop\Documents\Visual Studio 2013\Projects\DoAn_Game\DoAn_Game\obj\Debug\DoAn_Game.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Documents\Visual Studio 2013\Projects\DoAn_Game\DoAn_Game\obj\Debug\DoAn_Game.frmAdventure.resources
+C:\Users\Laptop\Documents\Visual Studio 2013\Projects\DoAn_Game\DoAn_Game\obj\Debug\DoAn_Game.csproj.GenerateResource.Cache
+C:\Users\Laptop\Documents\Visual Studio 2013\Projects\DoAn_Game\DoAn_Game\obj\Debug\DoAn_Game.Properties.Resources.resources
+C:\Users\Laptop\Documents\Visual Studio 2013\Projects\DoAn_Game\DoAn_Game\bin\Debug\DoAn_Game.exe
+C:\Users\Laptop\Documents\Visual Studio 2013\Projects\DoAn_Game\DoAn_Game\bin\Debug\DoAn_Game.pdb
+C:\Users\Laptop\Documents\Visual Studio 2013\Projects\DoAn_Game\DoAn_Game\obj\Debug\DoAn_Game.exe
+C:\Users\Laptop\Documents\Visual Studio 2013\Projects\DoAn_Game\DoAn_Game\obj\Debug\DoAn_Game.pdb
